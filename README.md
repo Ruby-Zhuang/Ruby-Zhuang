@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://github.com/Ruby-Zhuang/Ruby-Zhuang/blob/main/banner.png?raw=true">
+
+## Hi there, I'm Ruby! 👋
 
 <!--
 **Ruby-Zhuang/Ruby-Zhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
