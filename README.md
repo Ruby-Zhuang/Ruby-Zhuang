@@ -1,4 +1,4 @@
-<img src="https://github.com/Ruby-Zhuang/Ruby-Zhuang/blob/main/banner.png?raw=true">
+<img src="https://github.com/Ruby-Zhuang/Ruby-Zhuang/blob/main/banner-red.png?raw=true">
 
 ## Hi there, I'm Ruby! 👋
 
