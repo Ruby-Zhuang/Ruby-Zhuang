@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Ruby! 👋🏼
 
-I'm an enthusiastic and eager to learn Full Stack Web Developer with a passion to better the world through readable, clean and testable code.
+I'm an enthusiastic Full Stack Web Developer with a passion to better the world through readable, clean and testable code.
 
 - 🌱 Learning Ruby on Rails
 - 📃 Check out my <a href="https://www.canva.com/design/DAEbXo7AR4g/78QuzBofo8Qfq5JnC6EmOQ/view?utm_content=DAEbXo7AR4g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">resume</a> and <a href="https://www.rubyzhuang.ca/">portfolio</a>
