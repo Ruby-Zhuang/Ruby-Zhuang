@@ -9,3 +9,5 @@ I'm an enthusiastic Full Stack Web Developer with a passion to better the world 
 - 📫 Contact me by <a href="mailto:ruby.zhuang@hotmail.com">email</a> or send me a message on <a href="https://www.linkedin.com/in/rubyzhuang/">LinkedIn</a>
 - ⚡ Fun fact: my favourite colour is actually pastel pink (not red 😆 )
 - 👇🏼 Browse my projects below
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ruby-Zhuang.visitor-badge)
